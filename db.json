@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "John",
+      "lastname": "Doe",
+      "email": "john@example.com",
+      "skills": ["React", "JavaScript"],
+      "dateOfRegistration": "2022-05-10T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "firstname": "Jane",
+      "lastname": "Smith",
+      "email": "jane@example.com",
+      "skills": ["Vue", "TypeScript"],
+      "dateOfRegistration": "2022-05-11T00:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "firstname": "Alice",
+      "lastname": "Johnson",
+      "email": "alice@example.com",
+      "skills": ["Angular", "HTML", "CSS"],
+      "dateOfRegistration": "2022-05-12T00:00:00.000Z"
+    }
+  ]
+}
