@@ -28,7 +28,7 @@
       "id": 4,
       "firstname": "Jon",
       "lastname": "Jones",
-      "email": "Jon@example.com",
+      "email": "jon@example.com",
       "skills": ["Spring", "Java"],
       "dateOfRegistration": "2022-05-12T00:00:00.000Z"
     },
@@ -62,7 +62,7 @@
       "lastname": "Mcgregor",
       "email": "conor@example.com",
       "skills": ["ASP.NET", "C#"],
-      "dateOfRegistration": "2024-06-11T00:00:00.000Z"
+      "dateOfRegistration": "2024-07-18T00:00:00.000Z"
     },
     {
       "id": 9,
@@ -70,7 +70,7 @@
       "lastname": "Mcgregor",
       "email": "conor@example.com",
       "skills": ["ASP.NET", "C#"],
-      "dateOfRegistration": "2024-06-11T00:00:00.000Z"
+      "dateOfRegistration": "2024-03-22T00:00:00.000Z"
     },
     {
       "id": 10,
@@ -78,7 +78,7 @@
       "lastname": "Mcgregor",
       "email": "conor@example.com",
       "skills": ["ASP.NET", "C#"],
-      "dateOfRegistration": "2024-06-11T00:00:00.000Z"
+      "dateOfRegistration": "2024-02-15T00:00:00.000Z"
     },
     {
       "id": 11,
@@ -86,7 +86,7 @@
       "lastname": "Mcgregor",
       "email": "conor@example.com",
       "skills": ["ASP.NET", "C#"],
-      "dateOfRegistration": "2024-06-11T00:00:00.000Z"
+      "dateOfRegistration": "2024-07-14T00:00:00.000Z"
     }
   ]
 }
