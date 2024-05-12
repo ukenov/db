@@ -47,6 +47,46 @@
       "email": "conor@example.com",
       "skills": ["ASP.NET", "C#"],
       "dateOfRegistration": "2024-06-11T00:00:00.000Z"
+    },
+    {
+      "id": 7,
+      "firstname": "Conor",
+      "lastname": "Mcgregor",
+      "email": "conor@example.com",
+      "skills": ["ASP.NET", "C#"],
+      "dateOfRegistration": "2024-06-11T00:00:00.000Z"
+    },
+    {
+      "id": 8,
+      "firstname": "Conor",
+      "lastname": "Mcgregor",
+      "email": "conor@example.com",
+      "skills": ["ASP.NET", "C#"],
+      "dateOfRegistration": "2024-06-11T00:00:00.000Z"
+    },
+    {
+      "id": 9,
+      "firstname": "Conor",
+      "lastname": "Mcgregor",
+      "email": "conor@example.com",
+      "skills": ["ASP.NET", "C#"],
+      "dateOfRegistration": "2024-06-11T00:00:00.000Z"
+    },
+    {
+      "id": 10,
+      "firstname": "Conor",
+      "lastname": "Mcgregor",
+      "email": "conor@example.com",
+      "skills": ["ASP.NET", "C#"],
+      "dateOfRegistration": "2024-06-11T00:00:00.000Z"
+    },
+    {
+      "id": 11,
+      "firstname": "Conor",
+      "lastname": "Mcgregor",
+      "email": "conor@example.com",
+      "skills": ["ASP.NET", "C#"],
+      "dateOfRegistration": "2024-06-11T00:00:00.000Z"
     }
   ]
 }
